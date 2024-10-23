@@ -1,4 +1,4 @@
-# Machine-Learning-Driven-Tests-for-Predicting-Cancer-Recurrence-Risk
+# Machine-Learning-Driven-Tests-for-Predicting-Cancer-Recurrence-Risk (This project is for self learning purpose)
 
 I developed a machine learning classifier to predict the risk of recurrence in early-stage hormone receptor-positive breast cancer patients. The project involved comprehensive data analysis and predictive modeling.
 
